@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/navrouter/static/css/main.79e2c463.chunk.css",
+    "main.js": "/navrouter/static/js/main.bad82c95.chunk.js",
+    "main.js.map": "/navrouter/static/js/main.bad82c95.chunk.js.map",
+    "runtime-main.js": "/navrouter/static/js/runtime-main.776ff6cd.js",
+    "runtime-main.js.map": "/navrouter/static/js/runtime-main.776ff6cd.js.map",
+    "static/js/2.028ee643.chunk.js": "/navrouter/static/js/2.028ee643.chunk.js",
+    "static/js/2.028ee643.chunk.js.map": "/navrouter/static/js/2.028ee643.chunk.js.map",
+    "index.html": "/navrouter/index.html",
+    "static/css/main.79e2c463.chunk.css.map": "/navrouter/static/css/main.79e2c463.chunk.css.map",
+    "static/js/2.028ee643.chunk.js.LICENSE.txt": "/navrouter/static/js/2.028ee643.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.776ff6cd.js",
+    "static/js/2.028ee643.chunk.js",
+    "static/css/main.79e2c463.chunk.css",
+    "static/js/main.bad82c95.chunk.js"
+  ]
+}
